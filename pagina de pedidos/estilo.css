@@ -1,0 +1,82 @@
+
+img{
+	max-width: 30%;
+}
+img:hover{
+	max-width: 60%;
+}
+
+.header-1{
+
+	background-color: white;
+	border-radius: 10px;
+	width: 20vw;
+	height: 15vh;
+	text-align: center;
+}
+
+#titulo{
+	
+}
+
+#buscador-1{
+	
+}
+
+#b-1{
+	margin-top: 10px;
+	margin-right: 40px; 
+}
+
+#b-2{
+	margin: 10px 
+}
+#b-3{
+	margin-left: 20px;
+	font-weight: 10;
+}
+#b-4{
+	margin-left: 35px;
+	font-weight: 10;
+
+}
+.promo-1{
+	background-color: white;
+	width: 25vw;
+	border-radius: 10px;
+}
+.promo-2{
+	background-color: white;
+	width: 25vw;
+	border-radius: 10px;
+}
+.promo-3{
+	background-color: white;
+	width: 25vw;
+	border-radius: 10px;
+}
+.pizza-1{
+	background-color: white;
+	width: 25vw;
+	border-radius: 10px;
+}
+.pizza-2{
+	background-color: white;
+	width: 25vw;
+	border-radius: 10px;
+}
+.pizza-3{
+	background-color: white;
+	width: 25vw;
+	border-radius: 10px;
+}
+.pizza-4{
+	background-color: white;
+	width: 25vw;
+	border-radius: 10px;
+}
+.pizza-5{
+	background-color: white;
+	width: 25vw;
+	border-radius: 10px;
+}
